@@ -1,1 +1,31 @@
-day 1 modifications
+github.com
+gitlab.com
+bitbucket.com
+azurerepo -- AzuredevOps.com
+aws codecommit -- AWSamazon.com
+svn -- azure 
+mercuis-- older
+ 
+
+git init
+git add filename
+git commit -m 'message' 
+git push 
+git diff 
+git pull 
+
+git clone 
+git branch
+git merge  
+
+
+what is diff between git clone and git pull
+how create and check out a branch 
+how to reset the commit 
+ 
+
+ 
+
+
+ 
+
